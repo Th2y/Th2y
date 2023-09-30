@@ -52,7 +52,7 @@ Versão em inglês após a versão em português | English version after the Por
 + **Unity Developer:** 02/2022 to 10/2023 at SpaceBit Games
 + **Systems development analyst:** 11/2020 to 02/2022 at BluewolfBr, also being **Project Manager** between 11/2021 and 12/2021
   
-### Ferramentas que já utilizei
+### Tools I've already used
 + **Game Engines:** Unity, Godot
 + **Project management and planning:** Git, Trello, Miro, HacknPlan, AdobeXD
 + **Google** Firebase, PlayStore, Sheets, Docs, Forms, Apresentation, Fonts
