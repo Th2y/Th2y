@@ -15,8 +15,11 @@ Versão em inglês após a versão em português | English version after the Por
 + **Currículo:** https://www.canva.com/design/DAE1_ozOa2I/28twthKYvKS8-xNs6Sz_RQ/edit?utm_content=DAE1_ozOa2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Experiência profissional
-+ **Desenvolvedora Unity:** 02/2022 a 10/2023 na SpaceBit Games
-+ **Analista de desenvolvimento de sistemas:** 11/2020 a 02/2022 na BluewolfBr, sendo também **Gerente de projeto** entre 11/2021 a 12/2021
++ SpaceBit Games
+  + **Desenvolvedor Unity** - 02/2022 a 10/2023
++ Buewolfbr
+  + **Analista de desenvolvimento de sistemas** - 11/2020 a 02/2022
+  + **Gerente de projeto** - 11/2021 a 12/2021
 
 ### Ferramentas que já utilizei
 + **Game Engines:** Unity, Godot
@@ -49,8 +52,11 @@ Versão em inglês após a versão em português | English version after the Por
 + **Curriculum:** https://www.canva.com/design/DAFo_Pgj-Ys/Ma0fHafCPXOslZoMex3uhw/edit?utm_content=DAFo_Pgj-Ys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Professional experience
-+ **Unity Developer:** 02/2022 to 10/2023 at SpaceBit Games
-+ **Systems development analyst:** 11/2020 to 02/2022 at BluewolfBr, also being **Project Manager** between 11/2021 and 12/2021
++ SpaceBit Games
+  + **Unity Developer** - 02/2022 to 10/2023
++ BluewolfBr
+  + **Systems development analyst** - 11/2020 to 02/2022
+  + **Project Manager** - 11/2021 to 12/2021
   
 ### Tools I've already used
 + **Game Engines:** Unity, Godot
