@@ -12,7 +12,7 @@ Versão em inglês após a versão em português | English version after the Por
 ### Links
 + **Portfólio de jogos:** https://thayane-carvalho.itch.io/
 + **Linkedin:** https://www.linkedin.com/in/thayane-carvalho-unity-developer/
-+ **Currículo:** https://www.canva.com/design/DAE1_ozOa2I/28twthKYvKS8-xNs6Sz_RQ/edit?utm_content=DAE1_ozOa2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
++ **Currículo:** https://docs.google.com/document/d/1ALBPv8zm9_S0pYSdNlYuMbY1-SalzveR/edit?usp=sharing&ouid=100806218068135014364&rtpof=true&sd=true
 
 ### Experiência profissional
 + Oak3 - desde 01/2024
@@ -25,8 +25,8 @@ Versão em inglês após a versão em português | English version after the Por
   + **Gerente de projeto** - 11/2021 a 12/2021
 
 ### Ferramentas que já utilizei
-+ **Game Engines:** Unity, Godot
-+ **Gerenciamento e planejamento de projetos:** Git, Trello, Miro, HacknPlan, AdobeXD
++ **Game Engines:** Unity, Unreal 5, Godot
++ **Gerenciamento e planejamento de projetos:** Git, Jira, Trello, Miro, HacknPlan, AdobeXD
 + **Google** Firebase, PlayStore, Sheets, Docs, Forms, Apresentation, Fonts
 + **Arte:** GIMP, Blender
 
@@ -52,7 +52,7 @@ Versão em inglês após a versão em português | English version after the Por
 ### Links
 + **Game portfolio:** https://thayane-carvalho.itch.io/
 + **Linkedin:** https://www.linkedin.com/in/thayane-carvalho-unity-developer/
-+ **Curriculum:** https://www.canva.com/design/DAFo_Pgj-Ys/Ma0fHafCPXOslZoMex3uhw/edit?utm_content=DAFo_Pgj-Ys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
++ **Curriculum:** https://docs.google.com/document/d/1Pwxe-hNovgL5_wQbgHnTj61zv9ihPiI2/edit?usp=sharing&ouid=100806218068135014364&rtpof=true&sd=true
 
 ### Professional experience
 + Oak3 - since 01/2024
@@ -65,8 +65,8 @@ Versão em inglês após a versão em português | English version after the Por
   + **Project Manager** - 11/2021 to 12/2021
   
 ### Tools I've already used
-+ **Game Engines:** Unity, Godot
-+ **Project management and planning:** Git, Trello, Miro, HacknPlan, AdobeXD
++ **Game Engines:** Unity, Unreal 5, Godot
++ **Project management and planning:** Git, Jira, Trello, Miro, HacknPlan, AdobeXD
 + **Google** Firebase, PlayStore, Sheets, Docs, Forms, Apresentation, Fonts
 + **Art:** GIMP, Blender
 
