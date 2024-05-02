@@ -15,9 +15,12 @@ Versão em inglês após a versão em português | English version after the Por
 + **Currículo:** https://www.canva.com/design/DAE1_ozOa2I/28twthKYvKS8-xNs6Sz_RQ/edit?utm_content=DAE1_ozOa2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Experiência profissional
-+ SpaceBit Games
++ Oak3 - desde 01/2024
+  + **Desenvolvedor Unity** - desde 01/2024
+  + **Desenvolvedor Unreal** - desde 04/2024
++ SpaceBit Games - 02/2022 a 10/2023
   + **Desenvolvedor Unity** - 02/2022 a 10/2023
-+ Buewolfbr
++ Buewolfbr - 11/2020 a 02/2022
   + **Analista de desenvolvimento de sistemas** - 11/2020 a 02/2022
   + **Gerente de projeto** - 11/2021 a 12/2021
 
@@ -52,9 +55,12 @@ Versão em inglês após a versão em português | English version after the Por
 + **Curriculum:** https://www.canva.com/design/DAFo_Pgj-Ys/Ma0fHafCPXOslZoMex3uhw/edit?utm_content=DAFo_Pgj-Ys&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Professional experience
-+ SpaceBit Games
++ Oak3 - since 01/2024
+  + **Unity Developer** - since 01/2024
+  + **Unreal Developer** - since 04/2024
++ SpaceBit Games - 02/2022 to 10/2023
   + **Unity Developer** - 02/2022 to 10/2023
-+ BluewolfBr
++ BluewolfBr - 11/2020 to 02/2022
   + **Systems development analyst** - 11/2020 to 02/2022
   + **Project Manager** - 11/2021 to 12/2021
   
