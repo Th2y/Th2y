@@ -1,126 +1,166 @@
-## 🇧🇷 Olá, é um prazer enorme te ver por aqui! 👋  
+# 👋 Hi, I'm Thayane Carvalho
 
-### 👩‍💻 Sobre mim  
-+ **Nome:** Thayane Carvalho dos Santos  
-+ **Profissão:** Desenvolvedora Front-End (Angular) e Unity  
-+ **Linguagens:** TypeScript, JavaScript, HTML, CSS, SCSS, C#, Java, SQL  
-+ **Objetivo:** Atuar como Desenvolvedora Front-End, criando interfaces performáticas, escaláveis e acessíveis, com código limpo e foco em experiência do usuário.  
+🎮 **Unity Developer (Pleno)** | C# | 2D, 3D & Multiplayer Games  
+📍 Brazil — Open to relocation and remote opportunities
 
 ---
 
-### 🔗 Links  
-+ 🌐 **Portfólio Web:** [github.com/Th2y](https://github.com/Th2y)  
-+ 💼 **LinkedIn:** [linkedin.com/in/thayane-carvalho-developer/](https://www.linkedin.com/in/thayane-carvalho-developer/)  
-+ 🎮 **Portfólio de Jogos:** [thayane-carvalho.itch.io](https://thayane-carvalho.itch.io/)  
+## 🧩 About Me
+I'm a **Unity Developer with 5 years of experience**, including **4+ years working professionally** on commercial projects.  
+I hold a degree in **Digital Games** and a post-graduate specialization in **Software Architecture and Design Patterns**.
+
+I work across the **full game development lifecycle**, from prototyping to optimization and live maintenance (Live Ops), with strong focus on:
+- Clean and scalable **C# architecture**
+- **Gameplay systems** and UI
+- **Performance optimization**
+- **Multiplayer systems** (Mirror)
+- Technical collaboration with designers and artists
 
 ---
 
-### 💼 Experiência Profissional  
+## 🛠️ Tech Stack
 
-#### 🚀 Horse Power Studio — *05/2025 - Presente*  
-**Desenvolvedora Angular Pleno e Unity**  
-- Desenvolvimento de painel administrativo em **Angular + Supabase (PostgreSQL)**, com autenticação, CRUD e filtros dinâmicos.  
-- Implementação de componentes reutilizáveis com **Angular Material** e uso avançado de **RxJS**.  
-- Aplicação de **lazy loading**, **code splitting** e otimizações de build, reduzindo o tempo de carregamento inicial.  
+### 🎮 Game Development
+- **Unity** (C#)
+- ScriptableObjects, Prefabs, Scene Management
+- Multiplayer (Mirror)
+- UI Systems
+- Performance Optimization
+- Mobile, PC and Console (Nintendo Switch)
 
-#### 💻 Freelancer — *10/2022 - Presente*  
-**Desenvolvedora Angular**  
-- Criação de aplicações completas com **Firebase** e **PostgreSQL**.  
-- Estruturação de arquitetura modular e autenticação baseada em roles.  
-- Versionamento com **Git Flow**, priorizando entregas contínuas e organizadas.  
-
-#### 🧩 Bluewolfbr — *11/2020 - 02/2022*  
-**Analista de Desenvolvimento de Sistemas / Gerente de Projetos (temporária)**  
-- Desenvolvimento full stack com **Java (Spring)** no back-end e **Angular** no front-end.  
-- Modelagem de **APIs REST** e criação de interfaces responsivas.  
-- Coordenação de equipe para entrega de um app **Flutter + Java** em apenas 2 meses.  
-
-#### 🎮 Desenvolvimento de Jogos na Unity — *02/2022 - Presente*  
-- Criação e otimização de sistemas interativos e interfaces em **Unity**.  
-- Aplicação de princípios de design e reuso de componentes, fortalecendo a atuação em front-end web.  
+### 💻 Complementary Skills
+- Angular (admin panels & tools for games)
+- PostgreSQL / Firebase / Supabase
+- Git & GitHub
 
 ---
 
-### 🧰 Ferramentas e Tecnologias  
-+ **Front-End:** Angular, Angular Material, RxJS, HTML, CSS, SCSS, TypeScript  
-+ **Back-End e Banco de Dados:** Java (Spring), Firebase, Supabase, PostgreSQL  
-+ **Game Engines:** Unity, Flutter  
-+ **Design e Gestão:** Figma, Git, GitHub, Trello, Miro, VS Code  
+## 🚀 Professional Experience (Highlights)
+
+**Unity Developer (Pleno)**  
+Experience in commercial projects involving:
+- 2D and 3D games
+- Online multiplayer systems
+- UI and gameplay features
+- Optimization and platform adaptation (including Nintendo Switch)
+- Live Ops maintenance for mobile games
+
+> Full professional history available on my LinkedIn.
 
 ---
 
-### 🌎 Idiomas  
-+ 🇧🇷 **Português:** Nativo (C2)  
-+ 🇪🇸 **Espanhol:** Avançado (C1)  
-+ 🇺🇸 **Inglês:** Intermediário (B2, em evolução para avançado)  
+## 🎮 Featured Unity Projects
+
+### 🧠 Muster
+Virtual experience for team interaction and meetings.
+- Multiplayer systems using **Mirror**
+- User configuration systems
+- Performance optimization
+
+### 🏃 Run Ane!
+Infinite runner prototype with Brazilian folklore theme.
+- Gameplay systems and UI
+- Animations and 3D assets (Blender)
+
+### ⚙️ Operation Gear
+Rogue-lite game with procedural generation.
+- **Programming Lead**
+- Core systems and project architecture
+
+👉 Playable builds: **https://thayane-carvalho.itch.io**
 
 ---
 
-### 💡 Curiosidades  
-+ Sou **organizada, proativa e aprendo rápido**.  
-+ Fui **mentora de programação na Women Game Jam 2021**.  
-+ Fui destaque no **Top 10 Autismo Tech 2023** com o projeto **PonTEA (Flutter)**.  
-+ Ex-jogadora de xadrez — 🥈 **2ª colocada no Campeonato Sergipano de Xadrez Feminino 2019** e árbitra estadual ocasional.  
+## 🎓 Education
+- **Postgraduate Degree** — Software Architecture & Design Patterns  
+- **Bachelor’s Degree** — Digital Games
 
 ---
 
-## 🇺🇸 Hello, it's a great pleasure to see you here! 👋  
-
-### 👩‍💻 About me  
-+ **Name:** Thayane Carvalho dos Santos  
-+ **Profession:** Front-End Developer (Angular) and Unity Developer  
-+ **Languages:** TypeScript, JavaScript, HTML, CSS, SCSS, C#, Java, SQL  
-+ **Goal:** To become a Front-End Developer creating scalable, performant, and accessible interfaces with clean code and strong UX focus.  
+## 🌍 Languages
+- Portuguese — Native  
+- Spanish — Advanced  
+- English — Intermediate  
 
 ---
 
-### 🔗 Links  
-+ 🌐 **Web Portfolio:** [github.com/Th2y](https://github.com/Th2y)  
-+ 💼 **LinkedIn:** [linkedin.com/in/thayane-carvalho-developer/](https://www.linkedin.com/in/thayane-carvalho-developer/)  
-+ 🎮 **Game Portfolio:** [thayane-carvalho.itch.io](https://thayane-carvalho.itch.io/)  
+## 🔗 Links
+- 🎮 Game Portfolio: https://thayane-carvalho.itch.io  
+- 💼 LinkedIn: https://www.linkedin.com/in/thayane-carvalho-developer/
 
 ---
 
-### 💼 Professional Experience  
+---
 
-#### 🚀 Horse Power Studio — *May 2025 - Present*  
-**Angular and Unity Developer**  
-- Development of an **Angular + Supabase (PostgreSQL)** admin panel with authentication, CRUD, and dynamic filters.  
-- Implementation of reusable components using **Angular Material** and advanced use of **RxJS**.  
-- Performance optimization with **lazy loading** and **code splitting**.  
+# 👋 Olá, eu sou a Thayane Carvalho
 
-#### 💻 Freelancer — *Oct 2022 - Present*  
-**Angular Developer**  
-- Full web app development using **Firebase** and **PostgreSQL**, modular architecture, and role-based authentication.  
-- Continuous delivery and versioning using **Git Flow**.  
-
-#### 🧩 Bluewolfbr — *Nov 2020 - Feb 2022*  
-**Systems Analyst / Project Manager (temporary)**  
-- Full stack development using **Java (Spring)** and **Angular**, building responsive UIs and REST APIs.  
-- Led a small team to deliver a **Flutter + Java** app in just 2 months.  
-
-#### 🎮 Unity Game Development — *Feb 2022 - Present*  
-- Development and optimization of interactive systems and UI in **Unity**, applying performance and UX principles.  
+🎮 **Desenvolvedora Unity Pleno** | C# | Jogos 2D, 3D e Multiplayer  
+📍 Brasil — Disponibilidade para realocação e trabalho remoto
 
 ---
 
-### 🧰 Tools & Technologies  
-+ **Front-End:** Angular, Angular Material, RxJS, HTML, CSS, SCSS, TypeScript  
-+ **Back-End & Databases:** Java (Spring), Firebase, Supabase, PostgreSQL  
-+ **Game Engines:** Unity, Flutter  
-+ **Design & Management:** Figma, Git, GitHub, Trello, Miro, VS Code  
+## 🧩 Sobre mim
+Sou **Desenvolvedora Unity com 5 anos de experiência**, sendo **mais de 4 anos de atuação profissional** em projetos comerciais.  
+Sou formada em **Jogos Digitais** e possuo pós-graduação em **Arquitetura e Desenvolvimento de Sistemas com ênfase em Padrões de Projeto**.
+
+Atuo em todo o **ciclo de desenvolvimento de jogos**, da prototipação à otimização e manutenção (Live Ops), com foco em:
+- Arquitetura limpa e escalável em **C#**
+- **Sistemas de gameplay** e UI
+- **Otimização de performance**
+- **Sistemas multiplayer** (Mirror)
+- Colaboração técnica com designers e artistas
 
 ---
 
-### 🌎 Languages  
-+ 🇧🇷 **Portuguese:** Native (C2)  
-+ 🇪🇸 **Spanish:** Advanced (C1)  
-+ 🇺🇸 **English:** Intermediate (B2, improving to advanced)  
+## 🛠️ Tecnologias
+
+### 🎮 Desenvolvimento de Jogos
+- **Unity** (C#)
+- ScriptableObjects, Prefabs, Scene Management
+- Multiplayer (Mirror)
+- Sistemas de UI
+- Otimização de performance
+- Mobile, PC e Console (Nintendo Switch)
+
+### 💻 Competências Complementares
+- Angular (painéis administrativos e ferramentas para jogos)
+- PostgreSQL / Firebase / Supabase
+- Git & GitHub
 
 ---
 
-### 💡 Fun Facts  
-+ I’m **proactive, organized, and a fast learner**.  
-+ **Programming mentor at Women Game Jam 2021**.  
-+ **Top 10 Autismo Tech 2023** with the **PonTEA (Flutter)** project.  
-+ Former chess player — 🥈 **2nd place in the 2019 Sergipe Women's Chess Championship** and occasional referee.  
+## 🚀 Experiência Profissional (Resumo)
+
+**Desenvolvedora Unity Pleno**  
+Atuação em projetos comerciais envolvendo:
+- Jogos 2D e 3D
+- Multiplayer online
+- Sistemas de gameplay e UI
+- Otimização e adaptação para plataformas (incluindo Nintendo Switch)
+- Manutenção de jogos mobile (Live Ops)
+
+> Histórico profissional completo disponível no LinkedIn.
+
+---
+
+## 🎮 Projetos Unity em Destaque
+
+### 🧠 Muster
+Experiência virtual para interação entre equipes.
+- Sistemas multiplayer com **Mirror**
+- Configurações de usuário
+- Otimização de performance
+
+### 🏃 Run Ane!
+Protótipo de jogo de corrida infinita com temática folclórica.
+- Sistemas de gameplay e UI
+- Animações e modelos 3D (Blender)
+
+### ⚙️ Operation Gear
+Jogo rogue-lite com geração procedural.
+- **Líder de programação**
+- Arquitetura e sistemas centrais em Unity
+
+👉 Builds jogáveis: **https://thayane-carvalho.itch.io**
+
+---
