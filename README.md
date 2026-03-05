@@ -1,166 +1,290 @@
 # 👋 Hi, I'm Thayane Carvalho
 
-🎮 **Unity Developer (Pleno)** | C# | 2D, 3D & Multiplayer Games  
-📍 Brazil — Open to relocation and remote opportunities
+🎮 **Unity Developer (Pleno) | C# | Multiplayer | Game Systems**  
+💻 **Full-Stack Developer | Angular | Java | PostgreSQL**
+
+📍 Brazil — Open to **remote work** and **international relocation**
 
 ---
 
-## 🧩 About Me
-I'm a **Unity Developer with 5 years of experience**, including **4+ years working professionally** on commercial projects.  
-I hold a degree in **Digital Games** and a post-graduate specialization in **Software Architecture and Design Patterns**.
+## 🚀 About Me
 
-I work across the **full game development lifecycle**, from prototyping to optimization and live maintenance (Live Ops), with strong focus on:
-- Clean and scalable **C# architecture**
-- **Gameplay systems** and UI
-- **Performance optimization**
-- **Multiplayer systems** (Mirror)
-- Technical collaboration with designers and artists
+I'm a **Unity Developer with 5+ years of experience**, including **4+ years working professionally on commercial projects**.
+
+I specialize in **gameplay systems, multiplayer architecture and performance optimization**, and I also work with **web development for tools, dashboards and backend services**.
+
+🎓 **Bachelor’s Degree:** Digital Games (complete) and Information Systems (in progress)
+🎓 **Postgraduate:** Software Architecture & Design Patterns
+
+I enjoy building **scalable systems**, writing **clean and maintainable code**, and collaborating closely with designers and artists to deliver polished experiences.
+
+---
+
+## 🧠 Core Skills
+
+### 🎮 Game Development
+- Unity (C#)
+- Gameplay Systems
+- Multiplayer Networking (**Mirror**)
+- ScriptableObject Architecture
+- UI Systems
+- Game Optimization
+- Scene Management
+- Mobile / PC / Console builds
+
+### 💻 Full-Stack Development
+- Angular
+- Java
+- TypeScript
+- PostgreSQL
+- Firebase
+- Supabase
+
+### ⚙️ Engineering Practices
+- Object-Oriented Programming (OOP)
+- Design Patterns
+- Clean Code
+- Software Architecture
+- Git / GitHub
+- Agile (Scrum / Kanban)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎮 Game Development
-- **Unity** (C#)
-- ScriptableObjects, Prefabs, Scene Management
-- Multiplayer (Mirror)
-- UI Systems
-- Performance Optimization
-- Mobile, PC and Console (Nintendo Switch)
+**Languages**
 
-### 💻 Complementary Skills
-- Angular (admin panels & tools for games)
-- PostgreSQL / Firebase / Supabase
-- Git & GitHub
+C# • Java • TypeScript • SQL
 
----
+**Game Development**
 
-## 🚀 Professional Experience (Highlights)
+Unity • Mirror • Blender
 
-**Unity Developer (Pleno)**  
-Experience in commercial projects involving:
-- 2D and 3D games
-- Online multiplayer systems
-- UI and gameplay features
-- Optimization and platform adaptation (including Nintendo Switch)
-- Live Ops maintenance for mobile games
+**Web**
 
-> Full professional history available on my LinkedIn.
+Angular • REST APIs
+
+**Databases**
+
+PostgreSQL • Firebase • Supabase
+
+**Tools**
+
+Git • GitHub • Docker (basic)
 
 ---
 
-## 🎮 Featured Unity Projects
+# 🎮 Featured Projects
 
-### 🧠 Muster
-Virtual experience for team interaction and meetings.
-- Multiplayer systems using **Mirror**
+## 🧠 Muster
+Multiplayer virtual experience designed for **team interaction and meetings**.
+
+**Tech Highlights**
+- Multiplayer architecture using **Mirror**
 - User configuration systems
-- Performance optimization
-
-### 🏃 Run Ane!
-Infinite runner prototype with Brazilian folklore theme.
-- Gameplay systems and UI
-- Animations and 3D assets (Blender)
-
-### ⚙️ Operation Gear
-Rogue-lite game with procedural generation.
-- **Programming Lead**
-- Core systems and project architecture
-
-👉 Playable builds: **https://thayane-carvalho.itch.io**
+- Performance optimization for smooth sessions
 
 ---
 
-## 🎓 Education
-- **Postgraduate Degree** — Software Architecture & Design Patterns  
-- **Bachelor’s Degree** — Digital Games
+## 🏃 Run Ane!
+Infinite runner prototype inspired by **Brazilian folklore**.
+
+**Highlights**
+- Gameplay mechanics and UI systems
+- Character animations and assets created in **Blender**
+- Structured gameplay architecture
+
+🔗 Repository: *[(link here)](https://github.com/Th2y/A-Bruxa-de-Curitiba)*
+
+---
+
+## ⚙️ Operation Gear
+Rogue-lite game with **procedural generation systems**.
+
+**Role:** Programming Lead
+
+**Highlights**
+- Core gameplay systems
+- Procedural generation mechanics
+- Project architecture in Unity
+
+🔗 Repository: *[(link here)](https://github.com/Th2y/Operation-Gear)*
+
+---
+
+## 🎮 Play My Games
+
+Playable builds available here:
+
+👉 https://thayane-carvalho.itch.io
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th2&show_icons=true)
 
 ---
 
 ## 🌍 Languages
-- Portuguese — Native  
-- Spanish — Advanced  
-- English — Intermediate  
+
+Portuguese — Native  
+Spanish — Advanced  
+English — Intermediate
 
 ---
 
-## 🔗 Links
-- 🎮 Game Portfolio: https://thayane-carvalho.itch.io  
-- 💼 LinkedIn: https://www.linkedin.com/in/thayane-carvalho-developer/
+## 📫 Contact
 
----
+💼 LinkedIn  
+https://www.linkedin.com/in/thayanecarvalho-developer/
 
----
+🎮 Portfolio  
+https://thayane-carvalho.itch.io (games)
+https://resume-thayane.vercel.app/ (web)
 
+-----
 # 👋 Olá, eu sou a Thayane Carvalho
 
-🎮 **Desenvolvedora Unity Pleno** | C# | Jogos 2D, 3D e Multiplayer  
-📍 Brasil — Disponibilidade para realocação e trabalho remoto
+🎮 **Desenvolvedora Unity (Pleno) | C# | Multiplayer | Sistemas de Gameplay**  
+💻 **Desenvolvedora Full-Stack | Angular | Java | PostgreSQL**
+
+📍 Brasil — Disponibilidade para **trabalho remoto** e **realocação internacional**
 
 ---
 
-## 🧩 Sobre mim
-Sou **Desenvolvedora Unity com 5 anos de experiência**, sendo **mais de 4 anos de atuação profissional** em projetos comerciais.  
-Sou formada em **Jogos Digitais** e possuo pós-graduação em **Arquitetura e Desenvolvimento de Sistemas com ênfase em Padrões de Projeto**.
+## 🚀 Sobre mim
 
-Atuo em todo o **ciclo de desenvolvimento de jogos**, da prototipação à otimização e manutenção (Live Ops), com foco em:
-- Arquitetura limpa e escalável em **C#**
-- **Sistemas de gameplay** e UI
-- **Otimização de performance**
-- **Sistemas multiplayer** (Mirror)
-- Colaboração técnica com designers e artistas
+Sou **Desenvolvedora Unity com mais de 5 anos de experiência**, incluindo **mais de 4 anos de atuação profissional em projetos comerciais**.
+
+Tenho foco em **sistemas de gameplay, arquitetura multiplayer e otimização de performance**, além de também trabalhar com **desenvolvimento web para ferramentas internas, dashboards e serviços backend**.
+
+🎓 **Graduação:** Jogos Digitais (concluído) e Sistemas de Informação (em andamento)  
+🎓 **Pós-graduação:** Arquitetura de Software e Padrões de Projeto
+
+Gosto de construir **sistemas escaláveis**, escrever **código limpo e de fácil manutenção**, e colaborar de forma próxima com designers e artistas para entregar experiências bem polidas.
+
+---
+
+## 🧠 Principais Competências
+
+### 🎮 Desenvolvimento de Jogos
+- Unity (C#)
+- Sistemas de Gameplay
+- Networking Multiplayer (**Mirror**)
+- Arquitetura com ScriptableObjects
+- Sistemas de UI
+- Otimização de jogos
+- Gerenciamento de cenas
+- Builds para Mobile / PC / Console
+
+### 💻 Desenvolvimento Full-Stack
+- Angular
+- Java
+- TypeScript
+- PostgreSQL
+- Firebase
+- Supabase
+
+### ⚙️ Práticas de Engenharia
+- Programação Orientada a Objetos (OOP)
+- Padrões de Projeto
+- Clean Code
+- Arquitetura de Software
+- Git / GitHub
+- Metodologias Ágeis (Scrum / Kanban)
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 🎮 Desenvolvimento de Jogos
-- **Unity** (C#)
-- ScriptableObjects, Prefabs, Scene Management
-- Multiplayer (Mirror)
-- Sistemas de UI
-- Otimização de performance
-- Mobile, PC e Console (Nintendo Switch)
+**Linguagens**
 
-### 💻 Competências Complementares
-- Angular (painéis administrativos e ferramentas para jogos)
-- PostgreSQL / Firebase / Supabase
-- Git & GitHub
+C# • Java • TypeScript • SQL
 
----
+**Desenvolvimento de Jogos**
 
-## 🚀 Experiência Profissional (Resumo)
+Unity • Mirror • Blender
 
-**Desenvolvedora Unity Pleno**  
-Atuação em projetos comerciais envolvendo:
-- Jogos 2D e 3D
-- Multiplayer online
-- Sistemas de gameplay e UI
-- Otimização e adaptação para plataformas (incluindo Nintendo Switch)
-- Manutenção de jogos mobile (Live Ops)
+**Web**
 
-> Histórico profissional completo disponível no LinkedIn.
+Angular • REST APIs
+
+**Bancos de Dados**
+
+PostgreSQL • Firebase • Supabase
+
+**Ferramentas**
+
+Git • GitHub • Docker (básico)
 
 ---
 
-## 🎮 Projetos Unity em Destaque
+# 🎮 Projetos em Destaque
 
-### 🧠 Muster
-Experiência virtual para interação entre equipes.
-- Sistemas multiplayer com **Mirror**
-- Configurações de usuário
-- Otimização de performance
+## 🧠 Muster
+Experiência virtual multiplayer criada para **interação e reuniões entre equipes**.
 
-### 🏃 Run Ane!
-Protótipo de jogo de corrida infinita com temática folclórica.
-- Sistemas de gameplay e UI
-- Animações e modelos 3D (Blender)
-
-### ⚙️ Operation Gear
-Jogo rogue-lite com geração procedural.
-- **Líder de programação**
-- Arquitetura e sistemas centrais em Unity
-
-👉 Builds jogáveis: **https://thayane-carvalho.itch.io**
+**Destaques técnicos**
+- Arquitetura multiplayer utilizando **Mirror**
+- Sistemas de configuração de usuário
+- Otimização de performance para sessões mais estáveis
 
 ---
+
+## 🏃 Run Ane!
+Protótipo de jogo de corrida infinita inspirado no **folclore brasileiro**.
+
+**Destaques**
+- Mecânicas de gameplay e sistemas de UI
+- Animações de personagem e assets criados em **Blender**
+- Arquitetura estruturada de gameplay
+
+🔗 Repositório: *[(link aqui)](https://github.com/Th2y/A-Bruxa-de-Curitiba)*
+
+---
+
+## ⚙️ Operation Gear
+Jogo **rogue-lite** com sistemas de **geração procedural**.
+
+**Função:** Líder de Programação
+
+**Destaques**
+- Sistemas centrais de gameplay
+- Mecânicas de geração procedural
+- Arquitetura do projeto em Unity
+
+🔗 Repositório: *[(link aqui)](https://github.com/Th2y/Operation-Gear)*
+
+---
+
+## 🎮 Jogue meus jogos
+
+Builds jogáveis disponíveis em:
+
+👉 https://thayane-carvalho.itch.io
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Th2&show_icons=true)
+
+---
+
+## 🌍 Idiomas
+
+Português — Nativo  
+Espanhol — Avançado  
+Inglês — Intermediário
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/thayanecarvalho-developer/
+
+🎮 Portfólio  
+https://thayane-carvalho.itch.io (jogos)  
+https://resume-thayane.vercel.app/ (web)
