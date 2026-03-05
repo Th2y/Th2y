@@ -1,4 +1,11 @@
 # 👋 Hi, I'm Thayane Carvalho
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 🎮 **Unity Developer (Pleno) | C# | Multiplayer | Game Systems**  
 💻 **Full-Stack Developer | Angular | Java | PostgreSQL**
@@ -145,6 +152,13 @@ https://resume-thayane.vercel.app/ (web)
 
 -----
 # 👋 Olá, eu sou a Thayane Carvalho
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 🎮 **Desenvolvedora Unity (Pleno) | C# | Multiplayer | Sistemas de Gameplay**  
 💻 **Desenvolvedora Full-Stack | Angular | Java | PostgreSQL**
